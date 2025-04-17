@@ -1,0 +1,7 @@
+name = Currency Iso Field
+description = This module provides a field with the list of currency ISO codes
+backdrop = "1.x"
+type = "module"
+package = 'Currency Iso Field'
+version = "7.x-1.0"
+
